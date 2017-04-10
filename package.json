@@ -1,0 +1,16 @@
+{
+  "name": "reverse-proxy",
+  "version": "0.0.0",
+  "description": "reverse-proxy",
+  "main": "server.js",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "express": "^4.13.2",
+    "express-http-proxy": "^0.4.0",
+    "minimist": "^1.1.2"
+  }
+}
